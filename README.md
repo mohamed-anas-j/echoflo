@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Try the app now: **[https://echoflo-705765506241.us-west1.run.app/](https://echoflo-705765506241.us-west1.run.app/)**
+Try the app now (Login as guest as authentication API is not setup): **[https://echoflo-705765506241.us-west1.run.app/](https://echoflo-705765506241.us-west1.run.app/)**
 
 ---
 
