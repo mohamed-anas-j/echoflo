@@ -1,0 +1,31 @@
+{
+  "name": "echoflo",
+  "version": "1.0.0",
+  "description": "AI-powered productivity application with voice capture, smart task management, and habit tracking",
+  "author": "Mohamed Anas",
+  "license": "CC-BY-NC-4.0",
+  "type": "module",
+  "homepage": "https://echoflo-705765506241.us-west1.run.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamed-anas-j/echoflo.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "lucide-react": "^0.563.0",
+    "react-dom": "^19.2.4",
+    "@google/genai": "^1.40.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

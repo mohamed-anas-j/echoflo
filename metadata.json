@@ -1,0 +1,7 @@
+{
+  "name": "EchoFlo",
+  "description": "Your AI-powered mental inbox. Capture tasks, thoughts, and reflections.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
