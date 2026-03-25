@@ -2,6 +2,12 @@
 
 **EchoFlow** is a modern, AI-powered productivity application designed to help you capture, organize, and execute tasks with rhythm and focus. It combines the structured efficiency of a traditional task manager (like Todoist) with the generative intelligence of Google's Gemini models.
 
+## 🚀 Live Demo
+
+Try the app now: **[https://echoflo-705765506241.us-west1.run.app/](https://echoflo-705765506241.us-west1.run.app/)**
+
+---
+
 ## 🌟 Key Features
 
 ### 🧠 Echo: The AI Assistant
