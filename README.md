@@ -1,6 +1,6 @@
-# EchoFlow
+# EchoFlo
 
-**EchoFlow** is a modern, AI-powered productivity application designed to help you capture, organize, and execute tasks with rhythm and focus. It combines the structured efficiency of a traditional task manager (like Todoist) with the generative intelligence of Google's Gemini models.
+**EchoFlo** is a modern, AI-powered productivity application designed to help you capture, organize, and execute tasks with rhythm and focus. It combines the structured efficiency of a traditional task manager (like Todoist) with the generative intelligence of Google's Gemini models.
 
 ## 🚀 Live Demo
 
@@ -43,7 +43,7 @@ The core feature of the app. Click "Ask Echo" to open a multimodal interface.
 
 ## 🏗️ Architecture
 
-EchoFlow is built as a **Client-Side Single Page Application (SPA)**. It operates entirely in the browser without a dedicated backend server for database storage.
+EchoFlo is built as a **Client-Side Single Page Application (SPA)**. It operates entirely in the browser without a dedicated backend server for database storage.
 
 ### Tech Stack
 - **Framework**: [React 18](https://react.dev/)
